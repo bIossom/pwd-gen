@@ -24,7 +24,7 @@ Same concept as Windows
 
 OR
 
-You can do `mv generator /usr/bin/` so that you can run it without going to the dir
+mv generator /usr/bin/
 ```
 
 
